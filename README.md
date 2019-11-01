@@ -29,7 +29,7 @@ Every time the phone rings, they’ve got to take a step away from what they wer
 
 answer the phone, and walk over to their computer or appointment book
 
-So the answer is "BeeMax" :alien:
+So the answer is "BeeMax" 
 
 -BeeMax Increase customer loyalty
 
