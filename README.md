@@ -1,4 +1,4 @@
-# BeeMax
+# BeeMax  ![beemaxfav](https://user-images.githubusercontent.com/49508237/68080857-d7413580-fe29-11e9-8d5c-15725b13fbff.png)
 
 Real-Time Updating Salon App :barber:
 
