@@ -6,7 +6,6 @@ If you’ve got a beauty salon or barber shop,
 
 you’ve got to break the mold and get on board with the newest marketing trends.
 
-
 "BeeMax" is a real-time update mobile application for salon shops.:heart:
 
 Scheduling appointments just got easier now;
