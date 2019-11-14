@@ -10,13 +10,13 @@ you’ve got to break the mold and get on board with the newest marketing trends
 
 Scheduling appointments just got easier now;
 
- 1.Its save time :watch:
+   1.Its save time :watch:
 
- 2.Fast :rocket:
+   2.Fast :rocket:
 
- 3.Easy to use :hand:
+   3.Easy to use :hand:
 
- 4.Set up mobile payments :moneybag:
+   4.Set up mobile payments :moneybag:
 
 Right now owner love it whenever there phone rings.
 
@@ -30,10 +30,10 @@ answer the phone, and walk over to their computer or appointment book
 
 So the answer is "BeeMax" 
 
--BeeMax Increase customer loyalty
+  -BeeMax Increase customer loyalty
 
--BeeMax Stay in contact with your customers at all times
+  -BeeMax Stay in contact with your customers at all times
 
--BeeMax Combine your app with other mobile marketing tactics
+  -BeeMax Combine your app with other mobile marketing tactics
 
--BeeMax Can view how may users in the salon
+  -BeeMax Can view how may users in the salon
